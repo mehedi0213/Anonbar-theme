@@ -1,7 +1,5 @@
 <h1 align=center>Anonbar Theme</h1> 
 
-<p align=center>Liva is a modern and fully customizable minimal blog theme that will help you create any kind of website whether that's personal, travel, news, photography, tech, food, or other niches. </p>
-
 ## 🔑Key Features
 - 📄 7+ Pre-Designed Pages
 - 📊 Google Analytics support
